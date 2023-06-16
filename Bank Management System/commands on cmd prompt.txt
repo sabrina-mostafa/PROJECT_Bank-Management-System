@@ -1,8 +1,0 @@
-cd path
-cd C:\Users\User\Documents\IIUC\6th_Software Development2\Project\Bank Management System
-dir
-cls
-
-*python -m pip install --upgrade pip
-
->>> python bank.py

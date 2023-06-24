@@ -17,4 +17,6 @@ It allows Users to -
 
 
 # Presentation Link :
+https://www.canva.com/design/DAFlzoOeK-8/tLZ0i6hHKpcHcPTYoMvS4Q/view?utm_content=DAFlzoOeK-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+## or
 https://docs.google.com/presentation/d/1uF696hhWQSWLWC6aQnGkjZPuv-qO-Qqxi77f3cpuFro/edit?usp=sharing
